@@ -1,0 +1,9 @@
+---
+debugEnabled: false
+oauth2Enabled: false
+profilingEnabled: false
+logFlushInterval: 5 #in seconds
+url:
+auth_url:
+token_url:
+username:
